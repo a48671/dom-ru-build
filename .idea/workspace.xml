@@ -5,15 +5,13 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/asset-manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/normalaize.css" beforeDir="false" afterPath="$PROJECT_DIR$/normalaize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/precache-manifest.e314f66137b17fce738aafcb3c3ba5a1.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/service-worker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/2.a9227667.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/2.a9227667.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/main.19616526.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/main.19616526.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/main.6a3d9bfe.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/main.6a3d9bfe.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/main.9ec316ab.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/main.9ec316ab.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/2.06bc59a3.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/2.06bc59a3.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/main.d214d2be.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/main.d214d2be.chunk.js.map" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +25,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="218" selection-start-column="218" selection-end-column="218" />
+              <caret column="1853" lean-forward="true" selection-start-column="1853" selection-end-column="1853" />
             </state>
           </provider>
         </entry>
@@ -96,18 +94,18 @@
       <option name="presentableId" value="Default" />
       <updated>1555525686100</updated>
       <workItem from="1555525693816" duration="495000" />
-      <workItem from="1555526253600" duration="2086000" />
+      <workItem from="1555526253600" duration="2860000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2591000" />
+    <option name="totallyTimeSpent" value="3365000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24944155" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24944155" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -135,7 +133,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="218" selection-start-column="218" selection-end-column="218" />
+          <caret column="1853" lean-forward="true" selection-start-column="1853" selection-end-column="1853" />
         </state>
       </provider>
     </entry>
