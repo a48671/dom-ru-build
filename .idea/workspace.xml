@@ -2,14 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f36931c4-6635-4ed8-a1b2-c2984e12bf76" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/asset-manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/precache-manifest.ffa819d4735a2f90a734e513e26c8f27.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/normalaize.css" beforeDir="false" afterPath="$PROJECT_DIR$/normalaize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/precache-manifest.1bf95340ff5c00820d70f642ea9ee7c9.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/service-worker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/2.e3edbb95.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/2.e3edbb95.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/main.c38c50d1.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/main.c38c50d1.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/2.ae3fd61f.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/2.ae3fd61f.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/main.694ee584.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/main.694ee584.chunk.js.map" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +25,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="218" lean-forward="true" selection-start-column="218" selection-end-column="218" />
+              <caret column="1838" selection-start-column="1838" selection-end-column="1838" />
             </state>
           </provider>
         </entry>
@@ -96,11 +98,12 @@
       <workItem from="1555661816859" duration="1231000" />
       <workItem from="1555678523686" duration="191000" />
       <workItem from="1555679418639" duration="36000" />
+      <workItem from="1555689460275" duration="397000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5759000" />
+    <option name="totallyTimeSpent" value="6156000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="743" extended-state="6" />
@@ -134,7 +137,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="218" lean-forward="true" selection-start-column="218" selection-end-column="218" />
+          <caret column="1838" selection-start-column="1838" selection-end-column="1838" />
         </state>
       </provider>
     </entry>
